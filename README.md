@@ -1,4 +1,4 @@
--02/15/2024
+-02/15/2024<br>
 I'm Max, a freshman Electrical Engineer at RPI.
 I am hoping to get concentrations in both the mixed signal design focus area and the micro/nano electronics and photonics focus area.
 I enjoy any and all forms of circuit and hardware design and analysis.
