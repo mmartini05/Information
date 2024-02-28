@@ -4,3 +4,5 @@ I am hoping to get concentrations in both the mixed signal design focus area and
 I enjoy any and all forms of circuit and hardware design and analysis.<br>
 All of my personal projects I like will be here, along with cross links to other sites (BitBuilt for example, as shown in the Wii Micro / Nandii repositories in the future).<br>
 Some school projects may be here as well if I like them enough.<br>
+-02/27/2024<br>
+Added projects from my Embedded Control (ENGR-2350) class - just my Lab 2-5 code in collaboration with Trent Maffeo. 
