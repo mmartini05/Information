@@ -6,3 +6,5 @@ All of my personal projects I like will be here, along with cross links to other
 Some school projects may be here as well if I like them enough.<br>
 -02/27/2024<br>
 Added projects from my Embedded Control (ENGR-2350) class - just my Lab 2-5 code in collaboration with Trent Maffeo. 
+-5/21/2024<br>
+Added (a few days ago) the nInterpreter project - it's a big one. Could change the controller landscape of competitive Mario Kart Wii
